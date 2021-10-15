@@ -1,0 +1,36 @@
+.wrapper {
+    width: 100%;
+    height: 700px;
+    background-image: url(images/coco.jpg);
+    background-size: cover;
+}
+
+.fl {
+    float: right;
+    width: 50%;
+}
+
+img {
+    width: 65%;
+    margin-left: 16%;
+    margin-top: 10%;
+}
+
+p,
+h1 {
+    color: white;
+    margin-right: 74px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button {
+    background-color: #ff9900;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 15px;
+}
